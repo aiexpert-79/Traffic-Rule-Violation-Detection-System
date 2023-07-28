@@ -27,15 +27,15 @@ Make account on openalpr and get api secret key from [OpenALPR](https://www.open
 
 ## Installing
 
-Clone the repo and paste your secret key in [VehicleMoniter.py](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/VehicleMoniter.py) file on line 58.
+Clone the repo and paste your secret key in [VehicleMoniter.py](https://github.com/aiexpert-79/Traffic-Rule-Violation-Detection-System/blob/mater/VehicleMoniter.py) file on line 58.
 run the project by the command ```python3 VehicleMoniter.py```
 
 
 ## Working Preview
 
-![alt text](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/Screenshot1.png)
+![alt text](https://github.com/aiexpert-79/Traffic-Rule-Violation-Detection-System/blob/mater/Screenshot1.png)
 
-![alt text](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/Screenshot2.png)
+![alt text](https://github.com/aiexpert-79/Traffic-Rule-Violation-Detection-System/blob/mater/Screenshot2.png)
 
 ##### Note
 Do not run the file in the object detection folder cloned from tensorflow as I have made some changes to the files.
@@ -50,4 +50,4 @@ If you find any problem you can contact me or raise an issue.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aiexpert-79/Traffic-Rule-Violation-Detection-System/blob/mater/LICENSE) file for details
